@@ -37,12 +37,12 @@ global.sp = '⭔'
 global.mess = {
     success: 'Done ✓',
     admin: 'This Feature Is Only For Admin!',
-    botAdmin: 'Bot Must Be Admin First!',
-    owner: 'This Feature Is Only For Owner!',
-    group: 'Feature Used Only For Groups!',
+    botAdmin: 'Bota yönetici ver çalışsın!',
+    owner: 'bu özelliği sadece 𝕸𝖗𝖘.𝕯𝖊𝖈𝖈𝖆𝖑 kullanabilir!',
+    group: 'yalnızca grup özelliği!',
     private: 'Features Used Only For Private Chat!',
     bot: 'This Feature Is Only For Bot',
-    wait: 'Wait A minute...',
+    wait: 'bi dakka sabırlı ol',
     error: 'Error! Maybe Api Key Is Expired🤔!',
     endLimit: 'Your Daily Limit Has Expired, The Limit Will Be Reset Every 12 Hours',
 }
